@@ -1,1 +1,1 @@
-# Gradient-descent-visualization
+# Gradient-Descent-Viz
